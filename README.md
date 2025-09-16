@@ -1,4 +1,5 @@
 # 🖥️ BLOGIFY - Frontend Design Project
+<div><h2>This placeholder API takes time to load data. Please wait a moment...</h2></div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Frontend_Only-Design_System-2563eb" alt="Frontend Design">
